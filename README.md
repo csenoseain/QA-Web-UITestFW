@@ -1,2 +1,2 @@
 # QA-Web-UITestFW
-Web Automation Framework from Making Sense QA Department
+Web Automation Framework using Selenium, C# and BrowserStack
